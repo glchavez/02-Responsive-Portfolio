@@ -15,9 +15,11 @@ To view the current website, please click on the following link: [Giovany's Port
 
 On top of the each web page there is a navigation bar with three links: About, Portfolio, and Contact. When clicked, these links will take you to their respective web pages, as shown in the images below. On the Contact web page, you can fill out the three text boxes to submit a request for contact.
 
-![About me web page screenshot](assets/images/About_Me.png)
-![Portfolio web page screenshot](assets/images/Portfolio.png)
-![Contact web page screenshot](assets/images/Contact.png)
+![About me web page screenshot](Assets/Images/About_Me.png)
+
+![Portfolio web page screenshot](Assets/Images/Portfolio.png)
+
+![Contact web page screenshot](Assets/Images/Contact.png)
 
 ## Credits
 
@@ -31,7 +33,7 @@ Lastly, I would like to recognize w3newbie for their [tutorial](https://www.yout
 
 MIT License
 
-Copyright (c) [2020] [Giovany Chavez]
+Copyright &copy; 2020 Giovany Chavez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
