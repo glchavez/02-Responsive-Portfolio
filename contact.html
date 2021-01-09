@@ -12,6 +12,8 @@
         
     <link rel="stylesheet" href="./Assets/CSS/style.css">
 
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+
     <title>Contact Me</title>
 </head>
 
@@ -31,41 +33,48 @@
     </nav>
 
     
-    <section class="container">
+    <main class="container">
         <header class="row">
             <h1 class="col-sm-12" style="padding-top: 25px;">Contact</h1>
         </header>
         <hr>
-        <form class="row">
-            <div class="col-md-8">
-                <div class="row form-group">
-                    <div class="col-sm-12">
-                        <label for="name">Name</label>
-                        <br>
-                        <input type="text" class="form-control" id="name" name="name" placeholder="Name">    
+        <section class="row">
+            <form class="col-md-12 col-lg-8">
+                <div class="col-md-12">
+                    <div class="row form-group">
+                        <div class="col-sm-12">
+                            <label for="name">Name</label>
+                            <br>
+                            <input type="text" class="form-control" id="name" name="name" placeholder="Name">    
+                        </div>
+                    </div>
+                    <div class="row form-group">
+                        <div class="col-sm-12">
+                            <label for="email">Email</label>
+                            <br>
+                            <input type="email" class="form-control" id="email" name="email" placeholder="Email">    
+                        </div>
+                    </div>
+                    <div class="row form-group">
+                        <div class="col-sm-12">
+                            <label for="message">Message</label>
+                            <textarea class="form-control" id="message" rows="3" placeholder="Message"></textarea>    
+                        </div>
+                    </div>
+                    <div class="row form-group">
+                        <div class="col-sm-2">
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </div>
                     </div>
                 </div>
-                <div class="row form-group">
-                    <div class="col-sm-12">
-                        <label for="email">Email</label>
-                        <br>
-                        <input type="email" class="form-control" id="email" name="email" placeholder="Email">    
-                    </div>
-                </div>
-                <div class="row form-group">
-                    <div class="col-sm-12">
-                        <label for="message">Message</label>
-                        <textarea class="form-control" id="message" rows="3" placeholder="Message"></textarea>    
-                    </div>
-                </div>
-                <div class="row form-group">
-                    <div class="col-sm-2">
-                        <button type="submit" class="btn btn-primary">Submit</button>
-                    </div>
-                </div>
-            </div>
-        </form>
-    </section>
+            </form>
+            <aside class="col-sm-12 col-lg-4 text-center" style="padding: 25px;">
+                <i class="fab fa-linkedin" style="font-size: 24px;"></i> <a href="https://www.linkedin.com/in/giovany-chavez-0541aab2/">Giovany Chavez</a>
+                <br>
+                <i class="fab fa-github-square" style="font-size: 24px;"></i> <a href="https://github.com/glchavez">Glchavez</a>
+            </aside>
+        </section>
+    </main>
 
     <footer class="footer mt-auto py-3 bg-dark" style="text-align: center;">
         <div class="container">
