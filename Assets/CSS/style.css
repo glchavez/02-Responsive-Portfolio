@@ -1,7 +1,26 @@
 body {
-    background-color:rgb(235, 233, 233);
+    background-color:rgba(240, 240, 240, 0.979);
 }
 
 #navbarName {
-    color: rgb(235, 247, 133);
+    color: #616b39;
+}
+
+.navbar,
+.footer {
+    background-color: #a5a5a5e3;
+}
+
+hr {
+    background-color: grey;
+}
+
+#headshot {
+    border: 1px solid rgb(209, 208, 208);
+    border-radius: 10px;
+}
+
+.btn {
+    background-color: #95a556;
+    border-color: #343636;
 }
