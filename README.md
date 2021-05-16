@@ -1,8 +1,10 @@
 # 02-Responsive-Portfolio
 
-## Description
+This repository was created to display my current progress in learning web development and to serve as a platform to showcase my future projects on a web page.
 
-This repository was created to display my current progress in learning web development and to serve as a platform to showcase my future projects. Being able to have others find my work in a compiled location was behind the scenes motivation, as I wanted to put my work out for others to see where I am in my web development journey and how my skills can be implemented in a professional setting. 
+## Overview
+
+Being able to have others find my work in a compiled location was behind the scenes motivation, as I wanted to put my work out for others to see where I am in my web development journey and how my skills can be implemented in a professional setting. 
 
 The website contains an about page with a short bio of myself, a portfolio page to display my future projects, and contact page if anyone desires to reach out. Using Bootstrap content to build this website, I was able to take advantage of their grid system and set columns/rows for my photos and text. This was a challenging task when trying to incorporate mobile responsive web pages. With trial and error, I learned how to do so while keeping the code condensed and easy to read.
 
